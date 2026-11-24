@@ -4,7 +4,7 @@ Prototipo web móvil con dos vistas conectadas: **Mi B-Card** y **Mis contactos*
 
 - 🔗 **Demo:** [Ver prototipo en línea](https://taniavmc.github.io/prueba-tecnica/)
 - 🎨 **Wireframe:** [Imagen](docs/wireframe.png) · [Ver en Figma](https://www.figma.com/design/DysLHvvZY6PCXVaVi7t2sU/Prueba-t%C3%A9cnica?node-id=0-1&t=Xqbfc5BlpVhe4Qtl-1)
-- 🎬 **Video:** [Ver demostración]((https://drive.google.com/file/d/1Zl9c1yEHwe2G3rVaqH20cE1BgB62vNsr/view?usp=sharing))
+- 🎬 **Video:** [Ver demostración](https://drive.google.com/file/d/1Zl9c1yEHwe2G3rVaqH20cE1BgB62vNsr/view?usp=sharing)
 
 ![Wireframe](docs/wireframe.png)
 
