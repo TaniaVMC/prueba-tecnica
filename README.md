@@ -15,7 +15,7 @@ Prototipo web móvil con dos vistas conectadas: **Mi B-Card** y **Mis contactos*
 - **Problema priorizado:** en un evento, la persona necesita compartir su tarjeta rápido y recordar a quién conoció.
 - **Decisión principal de UX:** la app abre en Mi B-Card con "Copiar datos" como acción principal y confirmación visible; en Contactos, búsqueda en vivo por nombre, cargo o empresa, con estado "sin resultados" y una salida clara.
 - **Tecnología:** HTML, CSS y JavaScript sin frameworks ni backend; datos simulados.
-- **IA:** [COMPLETA: por ejemplo, "Claude (Anthropic) para orientación de UX, retroalimentación del wireframe y generación de código base, que revisé, ajusté y probé"].
+- **IA:** Se utilizó Claude (Anthropic) para retroalimentación del wireframe y generación de código base, que revisé, ajusté y probé.
 
 ---
 
