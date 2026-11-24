@@ -15,7 +15,7 @@ Prototipo web móvil con dos vistas conectadas: **Mi B-Card** y **Mis contactos*
 - **Problema priorizado:** en un evento, la persona necesita compartir su tarjeta rápido y recordar a quién conoció.
 - **Decisión principal de UX:** la app abre en Mi B-Card con "Copiar datos" como acción principal y confirmación visible; en Contactos, búsqueda en vivo por nombre, cargo o empresa, con estado "sin resultados" y una salida clara.
 - **Tecnología:** HTML, CSS y JavaScript sin frameworks ni backend; datos simulados.
-- **IA:** Se utilizó Claude (Anthropic) para retroalimentación del wireframe y generación de código base, que revisé, ajusté y probé.
+- **IA:** Utilicé Claude (Anthropic) como apoyo para orientar la UX, revisar el wireframe y generar código base, pero yo revisé, ajusté y probé todo el resultado para adaptarlo al proyecto.
 
 ---
 
@@ -57,7 +57,9 @@ Prototipo web móvil con dos vistas conectadas: **Mi B-Card** y **Mis contactos*
 - **Teclado:** todo se puede usar con Tab y Enter, con foco visible. Al abrir y cerrar el detalle, el foco se mueve de forma lógica.
 - **Contraste:** colores sólidos (en lugar de opacidades) para garantizar un contraste predecible.
 - **Movimiento reducido:** se respetan las preferencias del sistema (`prefers-reduced-motion`).
-- - **Lighthouse (móvil):** Accesibilidad 100 · Buenas prácticas 100 · SEO 100. ![Resultados de Lighthouse](docs/lighthouse.png)
+- **Lighthouse (móvil):** Accesibilidad 100 · Buenas prácticas 100 · SEO 100.
+
+![Resultados de Lighthouse](docs/lighthouse.png)
 
 ---
 
@@ -69,8 +71,19 @@ Prototipo web móvil con dos vistas conectadas: **Mi B-Card** y **Mis contactos*
 ├── data.js         Datos ficticios
 ├── app.js          Navegación, copiar, búsqueda y detalle
 ├── assets/icons/   Íconos PNG
-└── docs/           Wireframe
+└── docs/           Wireframe y resultados de Lighthouse
 ```
+
+---
+
+## Siguientes pasos
+
+Fuera del alcance de esta prueba, pero considerados para una siguiente iteración:
+
+- **Compartir por QR:** mostrar un código en Mi B-Card que abra una página ligera con la tarjeta y un botón "Guardar contacto", para que funcione aunque la otra persona no tenga la app.
+- **Guardar en la agenda del teléfono:** exportar la B-Card como archivo de contacto (.vcf).
+- **Contexto del encuentro:** registrar dónde se conoció a cada persona (por ejemplo, "Panel de IA") y notas breves, para recordar de qué se habló.
+- **Estado de lista vacía:** mensaje y acción para cuando aún no hay contactos, por ejemplo al inicio del evento.
 
 ---
 
