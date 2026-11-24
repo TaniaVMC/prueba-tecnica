@@ -2,8 +2,8 @@
 
 Prototipo web móvil con dos vistas conectadas: **Mi B-Card** y **Mis contactos**, para una persona que asiste por primera vez a un evento de networking.
 
-🔗 **Demo:** [AGREGA AQUÍ EL ENLACE DE GITHUB PAGES]
-🎨 **Wireframe:** [docs/wireframe.png](docs/wireframe.png) · [AGREGA AQUÍ EL ENLACE DE FIGMA]
+🔗 **Demo:** [[](https://taniavmc.github.io/prueba-tecnica/)]
+🎨 **Wireframe:** [docs/wireframe.png](docs/wireframe.png) · [[](https://www.figma.com/design/DysLHvvZY6PCXVaVi7t2sU/Prueba-t%C3%A9cnica?node-id=0-1&t=Xqbfc5BlpVhe4Qtl-1)]
 🎬 **Video:** [AGREGA AQUÍ EL ENLACE AL VIDEO]
 
 ![Wireframe](docs/wireframe.png)
