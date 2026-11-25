@@ -1,6 +1,6 @@
 # Prueba técnica · Prototipo (Ruta A: Web)
 
-Prototipo web móvil con dos vistas conectadas: **Mi B-Card** y **Mis contactos**, para una persona que asiste por primera vez a un evento de networking.
+Prototipo web móvil con dos vistas conectadas: **Mi B-Card** y **Contactos**, para una persona que asiste por primera vez a un evento de networking.
 
 - 🔗 **Demo:** [Ver prototipo en línea](https://taniavmc.github.io/prueba-tecnica/)
 - 🎨 **Wireframe:** [Imagen](docs/wireframe.png) · [Ver en Figma](https://www.figma.com/design/DysLHvvZY6PCXVaVi7t2sU/Prueba-t%C3%A9cnica?node-id=0-1&t=Xqbfc5BlpVhe4Qtl-1)
