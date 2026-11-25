@@ -37,7 +37,7 @@ Prototipo web móvil con dos vistas conectadas: **Mi B-Card** y **Contactos**, p
 | Requisito | Cómo se cumple |
 |---|---|
 | Mi B-Card | Nombre, cargo y empresa ficticios + botón **Copiar datos** que copia al portapapeles y muestra un aviso de confirmación (3 s). |
-| Mis contactos | 3 contactos ficticios, **búsqueda en vivo** (sin importar mayúsculas ni acentos) y **detalle** de cada contacto. |
+| Contactos | 3 contactos ficticios, **búsqueda en vivo** (sin importar mayúsculas ni acentos) y **detalle** de cada contacto. |
 | Navegación | Barra inferior con 2 pestañas; el detalle tiene botón "‹ Contactos" para regresar. |
 | Estados alternativos | **Sin resultados** (con botón "Limpiar búsqueda"), **confirmación** al copiar y **error** si el navegador no permite copiar. |
 
