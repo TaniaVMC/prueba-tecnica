@@ -1,4 +1,4 @@
-# BinkBe Networker · Prototipo (Ruta A: Web)
+# Prueba técnica · Prototipo (Ruta A: Web)
 
 Prototipo web móvil con dos vistas conectadas: **Mi B-Card** y **Mis contactos**, para una persona que asiste por primera vez a un evento de networking.
 
